@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/dstokes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://drewstokes.com
+  * I am dstokes (https://keybase.io/dstokes) on keybase.
+  * I have a public key with fingerprint 0AE8 AE68 8865 09A1 930F  E999 51A8 564C F428 4B1B
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.0"
+        },
+        "key": {
+            "fingerprint": "0ae8ae68886509a1930fe99951a8564cf4284b1b",
+            "host": "keybase.io",
+            "key_id": "51A8564CF4284B1B",
+            "uid": "1859a304bde8c359c85e15ee8edf4300",
+            "username": "dstokes"
+        },
+        "merkle_root": {
+            "ctime": 1400706470,
+            "hash": "9c1889d56b00c00b4e33041cd576f7d7b08997b3cd89fa564b40081287332bdcb5b98c276c743598f0bffd342e5b4c4d6fdd5451bece554efafd6f117328da4f",
+            "seqno": 10270
+        },
+        "service": {
+            "hostname": "drewstokes.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1400706553,
+    "expire_in": 157680000,
+    "prev": "63df6b77f93b84c3e53b17da8f18df0b14d0e0fef0d049d523e1520866e18d0d",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVkl9oHUUUxvfmtmqNYlArhPahXYRqG64zuzO7swEjRgmGpmiapIoSbndmziTb
+3Lt77+4mbSyXKDRoEWoEK9UXEQxKNQS1T7VoQVrxD7Sl0Ki0FBtf0n8ajSEphTgb
+U7T7NDvzO9983zkzdm/eqMt1fryjY+6RretyP8xwo6u2dnGvySM5bDbvNUUpgDDN
+VqFfBrPZHIBh7idQCKINYSShsCvZsMI0mUMQJ0EUagoVSAGZtaYMz4pVEPZBXImD
+TMtEPjAfHMaYQ5HnY89GCjzPo9hn1CFCEYsRjrmW7I+S9LZbzWXNYiD1LsVPZvxT
+bRnfilv12eDyAWbU821EuAQmbOoJRgFTAAZSERuhDEwgXokkkzQagCSzW4Z4oATF
+OIqWM4s0yAhMEHKRQ1ykDflJv67xBGbMk9ThCAmEOAFb34eFpK6jXOlyxDzP5baQ
+zFO+Nsm1BsMWc23b4lJwyj0mLNcRLtEGmUJcKWkTCygngkhHSUkJxRwEUEpA+Urv
+YezaFpM+UTpBAtUw0uaQ5aJa9hsPBQIy21nTbmWLYfe/8QoiKuuqShylkYhK+qw/
+TSvNWep0uJKxu4EXJ1ZkijwIpR7a/6eKNXp7Ryi1m0zYUwliKAYZodMzpL/sHhjS
+mo4tlcNdV3k2Z0TYQG2OXekzhZnUoTGRCPT0FZKI6H5ath6UhZjjgAaQ/C8n0z79
+Pi2ZBH2hnw7GYNb259avMnJ1xh2r67Jna9y9puHWW14q3bnUediYrXWBuGf6dLnw
+7vpDV7+sNE6NbPu7rf3x3LGxrVde/v2NgYWvWrsPbh/78cZR85v5XM+qs4/eHNn4
+6+bB+mtTL0x89NNb6rm05VTLjrbzvdP7Lxrdf97oyo9++vnbS88fOTCy4M3dd6J+
+euHg6NnT75x68cE17eO9s863c/Md3eNbNq375dnte26ez432bDq08/LmmbrJrp3J
+A2T2s/cnLs2EPQ9vPEztV744t/jH9y1j7UZD42MT9WcWX5sqH58/+V3v6vjYvurP
+nfmT1ftLB57p6D9z3Ev+yp/YUnsp1zTZ8FC+sfe6sS9981z1cmHmt+Ftr1YXn3h6
+8vWvP4lGyh9eWHjvrg/GG9ov/QM=
+=JEdC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dstokes
+
+==================================================================
