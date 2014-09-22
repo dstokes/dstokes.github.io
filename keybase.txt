@@ -6,7 +6,7 @@ I hereby claim:
 
   * I am an admin of http://drewstokes.com
   * I am dstokes (https://keybase.io/dstokes) on keybase.
-  * I have a public key with fingerprint 0AE8 AE68 8865 09A1 930F  E999 51A8 564C F428 4B1B
+  * I have a public key with fingerprint C06F AAF9 010E 517B AEF2  D965 634D 8681 3E2C A0E7
 
 To claim this, I am signing this object:
 
@@ -14,19 +14,19 @@ To claim this, I am signing this object:
     "body": {
         "client": {
             "name": "keybase.io node.js client",
-            "version": "0.4.0"
+            "version": "0.7.0"
         },
         "key": {
-            "fingerprint": "0ae8ae68886509a1930fe99951a8564cf4284b1b",
+            "fingerprint": "c06faaf9010e517baef2d965634d86813e2ca0e7",
             "host": "keybase.io",
-            "key_id": "51A8564CF4284B1B",
+            "key_id": "634D86813E2CA0E7",
             "uid": "1859a304bde8c359c85e15ee8edf4300",
             "username": "dstokes"
         },
         "merkle_root": {
-            "ctime": 1400706470,
-            "hash": "9c1889d56b00c00b4e33041cd576f7d7b08997b3cd89fa564b40081287332bdcb5b98c276c743598f0bffd342e5b4c4d6fdd5451bece554efafd6f117328da4f",
-            "seqno": 10270
+            "ctime": 1411428354,
+            "hash": "7a60e8fd3bd55781b14e240eac2d2abd5538428eb86811f74fcdd56636cc25c62717d00df39dc6d9886b86ffc9267288ec8354579b00b8863551c48b2aa580a2",
+            "seqno": 55063
         },
         "service": {
             "hostname": "drewstokes.com",
@@ -35,10 +35,10 @@ To claim this, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1400706553,
+    "ctime": 1411428413,
     "expire_in": 157680000,
-    "prev": "63df6b77f93b84c3e53b17da8f18df0b14d0e0fef0d049d523e1520866e18d0d",
-    "seqno": 8,
+    "prev": "9ad6395c98769dbcb3503fe10e230f98f865728fbfa54e04e07a3c07608d63d7",
+    "seqno": 13,
     "tag": "signature"
 }
 
@@ -47,25 +47,31 @@ with the aforementioned key, yielding the PGP signature:
 -----BEGIN PGP MESSAGE-----
 Version: GnuPG v1
 
-owFVkl9oHUUUxvfmtmqNYlArhPahXYRqG64zuzO7swEjRgmGpmiapIoSbndmziTb
-3Lt77+4mbSyXKDRoEWoEK9UXEQxKNQS1T7VoQVrxD7Sl0Ki0FBtf0n8ajSEphTgb
-U7T7NDvzO9983zkzdm/eqMt1fryjY+6RretyP8xwo6u2dnGvySM5bDbvNUUpgDDN
-VqFfBrPZHIBh7idQCKINYSShsCvZsMI0mUMQJ0EUagoVSAGZtaYMz4pVEPZBXImD
-TMtEPjAfHMaYQ5HnY89GCjzPo9hn1CFCEYsRjrmW7I+S9LZbzWXNYiD1LsVPZvxT
-bRnfilv12eDyAWbU821EuAQmbOoJRgFTAAZSERuhDEwgXokkkzQagCSzW4Z4oATF
-OIqWM4s0yAhMEHKRQ1ykDflJv67xBGbMk9ThCAmEOAFb34eFpK6jXOlyxDzP5baQ
-zFO+Nsm1BsMWc23b4lJwyj0mLNcRLtEGmUJcKWkTCygngkhHSUkJxRwEUEpA+Urv
-YezaFpM+UTpBAtUw0uaQ5aJa9hsPBQIy21nTbmWLYfe/8QoiKuuqShylkYhK+qw/
-TSvNWep0uJKxu4EXJ1ZkijwIpR7a/6eKNXp7Ryi1m0zYUwliKAYZodMzpL/sHhjS
-mo4tlcNdV3k2Z0TYQG2OXekzhZnUoTGRCPT0FZKI6H5ath6UhZjjgAaQ/C8n0z79
-Pi2ZBH2hnw7GYNb259avMnJ1xh2r67Jna9y9puHWW14q3bnUediYrXWBuGf6dLnw
-7vpDV7+sNE6NbPu7rf3x3LGxrVde/v2NgYWvWrsPbh/78cZR85v5XM+qs4/eHNn4
-6+bB+mtTL0x89NNb6rm05VTLjrbzvdP7Lxrdf97oyo9++vnbS88fOTCy4M3dd6J+
-euHg6NnT75x68cE17eO9s863c/Md3eNbNq375dnte26ez432bDq08/LmmbrJrp3J
-A2T2s/cnLs2EPQ9vPEztV744t/jH9y1j7UZD42MT9WcWX5sqH58/+V3v6vjYvurP
-nfmT1ftLB57p6D9z3Ev+yp/YUnsp1zTZ8FC+sfe6sS9981z1cmHmt+Ftr1YXn3h6
-8vWvP4lGyh9eWHjvrg/GG9ov/QM=
-=JEdC
+owFVkn9QFGUYx49fDRF0jFoEiMIS1dDBvLt7+4uBRn5ZxDAMYATCzLU/3oXzjttz
+b+WCC4QcohOUO/th4WAmAhmjGWMxxZAWyIQQaHOONTKVjnXDEJGoDA5a7RJO+c7+
+8e77fJ7v83zf5/VEBOkCA/iCN5qfMxzxB0zMcrpt8acyXAgnCXVImgvhrWZoU7Sd
+ja2BSBpigXUc64CpZineJgkwdYcjfo0xILVQdpglm0qBVCoVIA0GDdeSRbOtCsp2
+2axpITwgRZYVGYACSKAUx0IRExiSIHGjQJM0ikOMZwGkVMlqyaE8UBVZ1TSZBfVU
+5XNW+VwsOxPkavyu1QBKEwyLAyMnQJrHCYanCYgSENJQEI04ABrogPKaJcGhSBbo
+0NqtgbLFCk2yJK165hWzRqBGFDViNE4Y1YZYR7WaQ7EkgLQo4JxAEBSNcqgRYkYA
+WR4TMFY7xGk1BXJaf6hIGUVeEAiSxEmexwiexCiUEgAQRJwReFJgaJpUUVHkGYyk
+MJqGvFaOoBgOAE4N4gSB8kaaw1iWoAGLqQ4ccKdNQtIIApB4g/Yr15p5qLWtXdp9
+bzJ0/msvlZdq1Cy7LCkSL1nVWLWi2NM010qdXWOdkDOdXJMxcWaboA7t/1NFVfTB
+GzGiuAGBr9rNMjSZNYKgSBqoS6sDa1VNhhVInCF4hqZIRuB4DicALkJ18BgORIYW
+aZJQ/YqcyBJGCNSPYnEeUCSg1USB+s+nVkphq1RNh7nKxiq7ZIg0uAM3BusCAnUP
+hQRq71YX9nDk/cf82deRutOL0RNPRvToiTOzowXXuLyEv5KLe8a/alpI8cwc3Dfz
+e5Au6WZ9M3IsKn3Py8Crk/T6u0XOK7+My2MV+9+MbqlpvHrx42DP9Sdmmn/u/G6o
+y+nKPtd9pWAYZlxKb8GRC2nbg/oihzvf2VKypb6pwlkZdOOyxRC8N9Y1YvJ7z99o
+F5N8hU0dLwwsixva43L8y2HudN/Ku6PJs/MHPLf+fHElpg8f60wpPDn82ydL63YP
+t+Z8fq8rKVNszOTOlVw8mOcsn/d3zVn7O44ezn++spgJfTRkvtvrWijcOJWLeezj
++0PLLVv31B9wbzK99q1z8kzpdV9f7NgAsjy54n9qOvJObJaQkHC667HbluLQSGvX
+ZpvH/f3l2gQ9kz0nTxWE9/QH3s5tThpMOXvUF9d+qzLvmb937ohoywzuzT9PD9UQ
+tqWZileGjmcNxZSIc80/5k3Elfnt+nu9G35Y+HLQb2qN+CLl/fTeosfprKjDuydz
+F+WZeF+RfiqkTRmKLZ/sbrl6Nma0bf3NgfDaxGnfulL5blziR4GGZy2DfU9Xu7Kn
+ahe9R7K2Tx/ynsJHvT/9Wra5oWc2yeseubD1ODriqjf13Flv35TROqaQnyZ2TLqT
+v2m9dA3PPhYa/ch7reP9pY1R4XvTi/ngskOvOzrefqvaZ/0j/4OXloS6E/rYE4kf
+hoR5lG2V/wA=
+=1OBs
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
