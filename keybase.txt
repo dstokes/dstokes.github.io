@@ -4,74 +4,65 @@ https://keybase.io/dstokes
 
 I hereby claim:
 
-  * I am an admin of http://drewstokes.com
+  * I am an admin of https://drewstokes.com
   * I am dstokes (https://keybase.io/dstokes) on keybase.
-  * I have a public key with fingerprint 39C7 A8E6 1F65 F189 6709  5ED6 6E2F 8009 E552 3E2A
+  * I have a public key with fingerprint 5AF3 1446 D443 86E7 60BC  F4F2 ED91 6D50 A59A CE74
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
     "body": {
-        "client": {
-            "name": "keybase.io node.js client",
-            "version": "0.7.0"
-        },
         "key": {
-            "fingerprint": "39c7a8e61f65f18967095ed66e2f8009e5523e2a",
+            "eldest_kid": "010198af09abefb014cd346ba35f7e44399042ebf89a8ed5a4b16cc4b719cae460630a",
+            "fingerprint": "5af31446d44386e760bcf4f2ed916d50a59ace74",
             "host": "keybase.io",
-            "key_id": "6E2F8009E5523E2A",
+            "key_id": "ed916d50a59ace74",
+            "kid": "010198af09abefb014cd346ba35f7e44399042ebf89a8ed5a4b16cc4b719cae460630a",
             "uid": "1859a304bde8c359c85e15ee8edf4300",
             "username": "dstokes"
         },
-        "merkle_root": {
-            "ctime": 1412271513,
-            "hash": "020805466b693fdec57e1a524edc36321d577ed0ef9af23f04ba21e63fba583b4dde9a385bf4d37826b41f907f478fb9f60b5ae03dcbde753b8d10d1ee396c0f",
-            "seqno": 70429
-        },
         "service": {
             "hostname": "drewstokes.com",
-            "protocol": "http:"
+            "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1412271568,
+    "ctime": 1450286517,
     "expire_in": 157680000,
-    "prev": "048c357d954b1ede2cbcc07ea9ea695bd19e358de343db6eff1a888e44127511",
-    "seqno": 18,
+    "prev": "7d105f80897560bd28860020caf0e44a326ab34ac8dd4afbc3c0cc664f9db53a",
+    "seqno": 27,
     "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: GnuPG v1
+Version: GnuPG v2
 
-owFdkntQFWUYxg8XnQFFvOYlUNzSmRSOe78w6AwYNYUaFBKmcdzd791z1gNnD3uW
-gwxIjpkJUkITU1Jcy5zGIAgzZxxrNOCIjOCgE02hAQWTqGkjg4KU7ZpOl//22/f3
-Pe/zvO9XHhFiCw/yrNkdNvziulVBXVclW3rcWxcKMUlDBVh8ISZnq+AxrC+PmANY
-POaGAkn0gV3VYjwaAvsOX8xDJhbzg+5TNY9J4XbOjmO7Yi3cuqyoHifoXl21tDBK
-kDmRB5ZQWEYheIHlcIEBxLJAKjyOC8AwJAWkaEq6NJ/xn67YA02Hisy/bDL5jMUn
-W3wymWjW8h4UCJ4RRAqnJQS8TDGCzDNAMAA8IIWmcNwCfaA/jIR8huYGn2U3B3R3
-Njh0TXuQWTZUiyBogiQ5giEo05Doc1kBSZzHGZplJVagFAQywwEhMiQNSKZYiiQQ
-w3GAcFAEUSEpxfQikgSwlCKJDE9JNEJgWuQZSaERxfEkK9GEIuCcQnO8IgkKi0uM
-CDiFZDMEx1ASjwgcEQCUwMq4YibwQa5Hw+I5nCaFXdZR96syWLatoT3KpkP+3/Hs
-spZj3vLqmqHJWrZZcxmGN95KbRR4LTYfJEfTQxmHpHqQubR/b5Uw0f9NhOVjMdjp
-VXVwqBbBcKy5EBy3+oDfmhNtLYBDAkNLBCAgZUmWcQ5EAURWYCRECEAxPAKKppDE
-gqIQIs/zQJsNOIYg/slJmK0M0Wlq+lSnRzTydMB2lQRHhdqCwm3TpwVb79YWHjb7
-0WMO3hx5f0swf+HyDEfZ9kvC44697s6jdW/81JeWVRh5s2jfonKpc/b+1E3Rm37N
-7844Z9xd1NBY0ba9bvyD8XkLml19zYmz9pfi00bamlqU2taq00Ur2/qPbftieM/q
-JfzaZ1duXxd2prVo247fDsei+Yk/946UBEYXj5c1fJg0EYXd89Zot+acqaY7pho/
-Pni9ojCiYoO6/OR6W8K909/ryyJSos/vvhk+88hwzKqayrLBA59VhVxLv3N2Tfvl
-wdzazprxnH1vx/2yc+d5omdu+xMv9B9PcX+ecKWrbE9ioKW8IIW8e/vrzuuLfhy7
-VnlIL922dMWoM+b+1NOpxdE3qnZzW39onenOn5tWnxBbnBO9pKMtqaS5d0bs+8n1
-riOjt2bktfVsqD6VOVU8OJIK67vwzfaiJ4PGfKMLMdeh+6UTzuXLhojBvZN17pAv
-M4aCXlq4sbL8XP+x8lb7J6uzHAde/5N1dJ3tbm4cP1EdvkBXul0NobenbvwxuWVp
-S/sr/Kv+E+lubDA8j8qeyjbem7BljYzBV4sDGz/tL3p+3u2xj15+7qJ/aH5SYGJ2
-ZHFPXcT0hJNa39ark/svfjfgz/XXOw9HQe+7B40Ts44G5HemG8O/d61N+Ca3qdbP
-Dzy2Wsq4dEdof/OpeGdIJ5MetzcQ17Ik69utlZkDmX1XBKJxLbo6JzTtzvCt3AL3
-aytO4R3H/wI=
-=zzpx
+owGtkm1QVFUYxxcESnKJKXAlsMGLMxginrv3dXdGGcCckswi3gYQui/nwnXx3uXu
+XVxA/KIpL+Jrq7ngEEUkU+AUIQPZ0PSBF8kRXWsAiSRSeiGMLMCM2e6l/NbHzpcz
+5zm///95zn/OCeMKQ7CfXAqiR5RBo9/Qj6whs+T85QqElfkyxFqB2ODyBot56FAL
+bCKPWBGAAtRCMwKwMCwUWIDiHI/hJMtghEBBHMcsFoCbISvQFoaGPMHgLEpyHM5S
+qIVjIE4CEgMMEo8IolQIFbsiSqpmSzAChuI4yWsONAkpErCcgAtmyFtQkicAQ1gY
+DlK4JiySHbpCG45lHDBBlLWadihYHu8/+P95bueyHUprDTCAszykOYywcDQBUQJC
+TSrgGAA66ICKxOyFGs07VNkGHUhlPKIVS0UO6rnqD3kEKHDfP0wCJ+/VxHZFVmVO
+LtbuilTV7rDqWrXMrsP7IFvwr00BK0q8FqSmKIWKQ5QlxIpqJKeKui+KE8BMkwRK
+xSPQZRcVWCDqBEGRNNCW3geWapYUjwJCyKEBbaEILXveTNMkAGbAaYlp6TCYmWRY
+DGc4mudxRmA5jAMcR5K4YOFZAtODccASSUasZq2XyhRqpg6xUGJUpwKRyuBq/6gA
+g1+wISjQX/9jhuCVoY8+3qTnSd8en7Dh4aISl3jyq5xkvw+3+ebjJw1B4RV9YcNx
+G5SY/oFdXaCqr3Puwf5LNyqrQ8ajrj52eLEr9u3NNo+Eeo5VNb5T1/PCzYW6zpi/
+/OXz11ev64j0OpFbS2UlpvLB8hbv4J3E5OOxFfnYav9nXL1OpZdqJ9Oyh3rOkUtj
+3rvjA40fnXr2uwOSq3mm1TPb+Fo2lmSbCWmk3f3X+n2VqRd/Y2r2t8xmnzVLyPro
+24Vnv8lLaKk67aw+OO1O2dj3a8/skbi09JdceT1xu3O33NzBTh2unts0NVqWW/9B
+Y0dGpvHE0ONbnXffbJt/I/jPoVv5MQ9p9V5YxJbhtWG3S5NIwevXbvzDN26KTtvm
+vTDDjry45um+67tOtljTx37JGRi+d+jUQtbMAhPd/VzA+zXu4m9/aAvpRl63n/ka
+qYj43rSqaeL+q26ReCVb3cRP/6ym2BLvNNS+dSxzrbl99MgOW0eJ0ddlC7hgeuLT
+LM+7NXVYRP2Vyp2nn9o6fRxvSkooygsfnAtMgpOx59IPrbwSuTTWatqekcHWSjfi
+3GHr0O2MMeu9zx/kYy+7Ji67z9Bffrxi4mjq6NWoBolLWfPJyO6RjW0XG77Y473v
+nZrsXHXtoKt1Z7KJai6v2vxZ7dHfR8IP2JpSh2zNi/VS7lzkpfmf6nxBz1NBiw3r
+A0N7xwNB8nh3aOHf
+=dMPE
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -80,3 +71,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/dstokes
 
 ==================================================================
+
